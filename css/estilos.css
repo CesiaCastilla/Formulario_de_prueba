@@ -1,0 +1,15 @@
+body {background-color: rgb(177, 170, 170);}
+form {
+    width: 600px; 
+    height: 600px;
+    margin: auto;
+    border-radius: 4px;
+    box-shadow: 7px 13px 47px #000;
+}
+
+fieldset{ border: 2px solid;}
+
+button {
+    color: wheat;
+    background-color: blue;
+}
